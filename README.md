@@ -13,3 +13,6 @@
 
 # contact information: 
 i3eye@gmail.com (doesn't exist yet)
+
+QR Code for this website
+<img width="336" height="382" alt="Screen Shot 2026-04-21 at 1 08 24 PM" src="https://github.com/user-attachments/assets/3579a9b5-01ad-43d8-bd8e-349773c17b9c" />
