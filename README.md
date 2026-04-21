@@ -1,7 +1,6 @@
 # I3eye
 
- [logo]: [https://github.com/harleyi/I3eye/blob/c4ba50124eecd3d3b1d62c24b067851b3f230f22/images/logo.PNG](https://github.com/harleyi/I3eye/blob/c4ba50124eecd3d3b1d62c24b067851b3f230f22/images/logo.PNG) "I3Eye Genetics consortium"
-
+[logo]: https://github.com/harleyi/I3eye/blob/c4ba50124eecd3d3b1d62c24b067851b3f230f22/images/logo.PNG "I3Eye genetics consortium"
 # International immune mediated/inflammatory eye diseases genetics consortium
 
 # purposes: 
