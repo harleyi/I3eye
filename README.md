@@ -1,6 +1,6 @@
 # I3eye
 
-[I3Eye logo]: (https://github.com/harleyi/I3eye/blob/c4ba50124eecd3d3b1d62c24b067851b3f230f22/images/logo.PNG) 
+<img width="1024" height="1024" alt="IMG_4145" src="https://github.com/user-attachments/assets/c84d99fe-5681-4da1-a968-4a57cb951a76" />
 
 # International immune mediated/inflammatory eye diseases genetics consortium
 
